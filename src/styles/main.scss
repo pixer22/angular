@@ -1,0 +1,32 @@
+ul {
+  padding-left: 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+button .material-icons {
+  vertical-align: middle;
+}
+
+.text-wrap {
+  word-wrap: break-word;
+}
+
+.text-ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.flex {
+  display: flex;
+}
+
+.navbar-logo {
+  display: inline-block !important;
+  height: 100%;
+  position: relative;
+  top: -2px;
+}
